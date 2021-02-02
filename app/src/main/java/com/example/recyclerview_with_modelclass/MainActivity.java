@@ -39,27 +39,27 @@ public class MainActivity extends AppCompatActivity {
         }*/
 
 
-        Memories_list.add(new Memories_modelCLass(R.drawable.ic_launcher_background,"Mashrafee Bin Murtaza","Cox's Bazar Tour",
+        Memories_list.add(new Memories_modelCLass(R.drawable.mash,"Mashrafee Bin Murtaza","Cox's Bazar Tour",
                 ">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been they text ever since the 1500s ..... See More",
                 R.drawable.ic_launcher_background,R.drawable.ic_launcher_background,R.drawable.ic_launcher_background, R.drawable.ic_launcher_background,
                 "12 Likes","5 Comments","2 Shares"));
 
-        Memories_list.add(new Memories_modelCLass(R.drawable.ic_launcher_background,"Shakib Al Hasan","Cox's Bazar Tour",
+        Memories_list.add(new Memories_modelCLass(R.drawable.shakib,"Shakib Al Hasan","Cox's Bazar Tour",
                 ">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been they text ever since the 1500s ..... See More",
                 R.drawable.ic_launcher_background,R.drawable.ic_launcher_background,R.drawable.ic_launcher_background, R.drawable.ic_launcher_background,
                 "12 Likes","5 Comments","2 Shares"));
 
-        Memories_list.add(new Memories_modelCLass(R.drawable.ic_launcher_background,"Mushfiqur Rahman","Cox's Bazar Tour",
+        Memories_list.add(new Memories_modelCLass(R.drawable.mushi,"Mushfiqur Rahman","Cox's Bazar Tour",
                 ">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been they text ever since the 1500s ..... See More",
                 R.drawable.ic_launcher_background,R.drawable.ic_launcher_background,R.drawable.ic_launcher_background, R.drawable.ic_launcher_background,
                 "12 Likes","5 Comments","2 Shares"));
 
-        Memories_list.add(new Memories_modelCLass(R.drawable.ic_launcher_background,"Mahmudullah Riyad","Cox's Bazar Tour",
+        Memories_list.add(new Memories_modelCLass(R.drawable.mahmudul,"Mahmudullah Riyad","Cox's Bazar Tour",
                 ">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been they text ever since the 1500s ..... See More",
                 R.drawable.ic_launcher_background,R.drawable.ic_launcher_background,R.drawable.ic_launcher_background, R.drawable.ic_launcher_background,
                 "12 Likes","5 Comments","2 Shares"));
 
-        Memories_list.add(new Memories_modelCLass(R.drawable.ic_launcher_background,"Sabbir Rahman","Cox's Bazar Tour",
+        Memories_list.add(new Memories_modelCLass(R.drawable.sabbir,"Sabbir Rahman","Cox's Bazar Tour",
                 ">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been they text ever since the 1500s ..... See More",
                 R.drawable.ic_launcher_background,R.drawable.ic_launcher_background,R.drawable.ic_launcher_background, R.drawable.ic_launcher_background,
                 "12 Likes","5 Comments","2 Shares"));
