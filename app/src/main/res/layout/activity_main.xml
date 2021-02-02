@@ -4,9 +4,20 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    android:orientation="vertical">
 
-<androidx.recyclerview.widget.RecyclerView
+    <SearchView
+        android:layout_gravity="center"
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:id="@+id/searchmain"
+        android:searchIcon="@drawable/ic_baseline_search_24"
+        >
+
+    </SearchView>
+
+    <androidx.recyclerview.widget.RecyclerView
     android:id="@+id/idRecyclerView"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"/>
